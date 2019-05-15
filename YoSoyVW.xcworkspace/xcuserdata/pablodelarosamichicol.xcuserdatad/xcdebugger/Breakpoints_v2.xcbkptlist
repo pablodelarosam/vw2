@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signup/ConfirmSignUpViewController.swift"
+            timestampString = "579594093.1966161"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "confirm(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (__C.AWSTask&lt;__C.AWSCognitoIdentityUserConfirmSignUpResponse&gt;) -&gt; Swift.Optional&lt;Swift.AnyObject&gt; in YoSoyVW.ConfirmSignUpViewController.confirm(Swift.AnyObject) -&gt; ()"
+                  moduleName = "YoSoyVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablodelarosamichicol/Downloads/si-yosoyvw-ios-pablo/YoSoyVW/mx.com.vw.app.yosoyvw.signup/ConfirmSignUpViewController.swift"
+                  timestampString = "579594093.501018"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "6361">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (__C.AWSTask&lt;__C.AWSCognitoIdentityUserConfirmSignUpResponse&gt;) -&gt; Swift.Optional&lt;Swift.AnyObject&gt; in YoSoyVW.ConfirmSignUpViewController.confirm(Swift.AnyObject) -&gt; ()"
+                  moduleName = "YoSoyVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablodelarosamichicol/Downloads/si-yosoyvw-ios-pablo/YoSoyVW/mx.com.vw.app.yosoyvw.signup/ConfirmSignUpViewController.swift"
+                  timestampString = "579594093.5044399"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "7998">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signup/ConfirmSignUpViewController.swift"
+            timestampString = "579594093.196756"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "confirm(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (__C.AWSTask&lt;__C.AWSCognitoIdentityUserConfirmSignUpResponse&gt;) -&gt; Swift.Optional&lt;Swift.AnyObject&gt; in YoSoyVW.ConfirmSignUpViewController.confirm(Swift.AnyObject) -&gt; ()"
+                  moduleName = "YoSoyVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablodelarosamichicol/Downloads/si-yosoyvw-ios-pablo/YoSoyVW/mx.com.vw.app.yosoyvw.signup/ConfirmSignUpViewController.swift"
+                  timestampString = "579594093.512395"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "2932">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (__C.AWSTask&lt;__C.AWSCognitoIdentityUserConfirmSignUpResponse&gt;) -&gt; Swift.Optional&lt;Swift.AnyObject&gt; in YoSoyVW.ConfirmSignUpViewController.confirm(Swift.AnyObject) -&gt; ()"
+                  moduleName = "YoSoyVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablodelarosamichicol/Downloads/si-yosoyvw-ios-pablo/YoSoyVW/mx.com.vw.app.yosoyvw.signup/ConfirmSignUpViewController.swift"
+                  timestampString = "579594093.515632"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "7978">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signin/SignInViewController.swift"
+            timestampString = "579594093.196848"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
+            landmarkName = "didCompleteStepWithError(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 (__C.AWSTask&lt;__C.AWSCognitoIdentityUserResendConfirmationCodeResponse&gt;) -&gt; Swift.Optional&lt;Swift.AnyObject&gt; in closure #1 () -&gt; () in YoSoyVW.SignInViewController.didCompleteStepWithError(Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "YoSoyVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablodelarosamichicol/Downloads/si-yosoyvw-ios-pablo/YoSoyVW/mx.com.vw.app.yosoyvw.signin/SignInViewController.swift"
+                  timestampString = "579593793.591915"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "3000">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 (__C.AWSTask&lt;__C.AWSCognitoIdentityUserResendConfirmationCodeResponse&gt;) -&gt; Swift.Optional&lt;Swift.AnyObject&gt; in closure #1 () -&gt; () in YoSoyVW.SignInViewController.didCompleteStepWithError(Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "YoSoyVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablodelarosamichicol/Downloads/si-yosoyvw-ios-pablo/YoSoyVW/mx.com.vw.app.yosoyvw.signin/SignInViewController.swift"
+                  timestampString = "579593793.59483"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "3108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signin/SignInViewController.swift"
+            timestampString = "579594093.197706"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "209"
+            endingLineNumber = "209"
+            landmarkName = "didCompleteStepWithError(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in YoSoyVW.SignInViewController.didCompleteStepWithError(Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "YoSoyVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablodelarosamichicol/Downloads/si-yosoyvw-ios-pablo/YoSoyVW/mx.com.vw.app.yosoyvw.signin/SignInViewController.swift"
+                  timestampString = "579585826.668873"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "201"
+                  endingLineNumber = "201"
+                  offsetFromSymbolStart = "3478">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.AWSTask&lt;__C.AWSCognitoIdentityUserResendConfirmationCodeResponse&gt;) -&gt; Swift.Optional&lt;Swift.AnyObject&gt; in closure #1 () -&gt; () in YoSoyVW.SignInViewController.didCompleteStepWithError(Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "YoSoyVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablodelarosamichicol/Downloads/si-yosoyvw-ios-pablo/YoSoyVW/mx.com.vw.app.yosoyvw.signin/SignInViewController.swift"
+                  timestampString = "579585826.671267"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "201"
+                  endingLineNumber = "201"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signin/ConfirmSignInViewController.swift"
+            timestampString = "579594093.198451"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "confirm(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signin/ConfirmSignInViewController.swift"
+            timestampString = "579594093.198565"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "confirm(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signin/ConfirmSignInViewController.swift"
+            timestampString = "579594093.198647"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "confirm(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signin/ConfirmSignInViewController.swift"
+            timestampString = "579594093.198725"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "confirm(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signin/ConfirmSignInViewController.swift"
+            timestampString = "579594093.198806"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "confirm(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signin/ConfirmSignInViewController.swift"
+            timestampString = "579594093.198887"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "confirm(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signin/ConfirmSignInViewController.swift"
+            timestampString = "579594093.198977"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "confirm(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YoSoyVW.ConfirmSignInViewController.confirm(Swift.AnyObject) -&gt; ()"
+                  moduleName = "YoSoyVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablodelarosamichicol/Downloads/si-yosoyvw-ios-pablo/YoSoyVW/mx.com.vw.app.yosoyvw.signin/ConfirmSignInViewController.swift"
+                  timestampString = "579594093.569295"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1555">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.AWSTask&lt;__C.AWSCognitoIdentityUserConfirmSignUpResponse&gt;) -&gt; Swift.Optional&lt;Swift.AnyObject&gt; in YoSoyVW.ConfirmSignInViewController.confirm(Swift.AnyObject) -&gt; ()"
+                  moduleName = "YoSoyVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablodelarosamichicol/Downloads/si-yosoyvw-ios-pablo/YoSoyVW/mx.com.vw.app.yosoyvw.signin/ConfirmSignInViewController.swift"
+                  timestampString = "579594093.572417"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "217">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signin/ConfirmSignInViewController.swift"
+            timestampString = "579594093.199062"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "confirm(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signin/ConfirmSignInViewController.swift"
+            timestampString = "579594093.199154"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "confirm(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signin/ConfirmSignInViewController.swift"
+            timestampString = "579594093.199246"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "confirm(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signin/ConfirmSignInViewController.swift"
+            timestampString = "579594093.199335"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "resend(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YoSoyVW.ConfirmSignInViewController.resend(Swift.AnyObject) -&gt; ()"
+                  moduleName = "YoSoyVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablodelarosamichicol/Downloads/si-yosoyvw-ios-pablo/YoSoyVW/mx.com.vw.app.yosoyvw.signin/ConfirmSignInViewController.swift"
+                  timestampString = "579594093.601248"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "732">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.AWSTask&lt;__C.AWSCognitoIdentityUserResendConfirmationCodeResponse&gt;) -&gt; Swift.Optional&lt;Swift.AnyObject&gt; in YoSoyVW.ConfirmSignInViewController.resend(Swift.AnyObject) -&gt; ()"
+                  moduleName = "YoSoyVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablodelarosamichicol/Downloads/si-yosoyvw-ios-pablo/YoSoyVW/mx.com.vw.app.yosoyvw.signin/ConfirmSignInViewController.swift"
+                  timestampString = "579594093.607802"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signin/ConfirmSignInViewController.swift"
+            timestampString = "579594093.199423"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "resend(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signin/SignInViewController.swift"
+            timestampString = "579594093.1995111"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "signInPressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signin/SignInViewController.swift"
+            timestampString = "579594093.200085"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "263"
+            endingLineNumber = "263"
+            landmarkName = "didCompleteStepWithError(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in YoSoyVW.SignInViewController.didCompleteStepWithError(Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "YoSoyVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablodelarosamichicol/Downloads/si-yosoyvw-ios-pablo/YoSoyVW/mx.com.vw.app.yosoyvw.signin/SignInViewController.swift"
+                  timestampString = "579594093.6737159"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "263"
+                  endingLineNumber = "263"
+                  offsetFromSymbolStart = "8520">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (__C.AWSTask&lt;__C.AWSCognitoIdentityUserGetDetailsResponse&gt;) -&gt; Swift.Optional&lt;Any&gt; in closure #1 () -&gt; () in YoSoyVW.SignInViewController.didCompleteStepWithError(Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "YoSoyVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablodelarosamichicol/Downloads/si-yosoyvw-ios-pablo/YoSoyVW/mx.com.vw.app.yosoyvw.signin/SignInViewController.swift"
+                  timestampString = "579594093.6790431"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "264"
+                  endingLineNumber = "264"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signin/SignInViewController.swift"
+            timestampString = "579594093.200613"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "didCompleteStepWithError(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in YoSoyVW.SignInViewController.didCompleteStepWithError(Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "YoSoyVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablodelarosamichicol/Downloads/si-yosoyvw-ios-pablo/YoSoyVW/mx.com.vw.app.yosoyvw.signin/SignInViewController.swift"
+                  timestampString = "579594093.695925"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "242"
+                  endingLineNumber = "242"
+                  offsetFromSymbolStart = "6804">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (__C.AWSTask&lt;__C.AWSCognitoIdentityUserGetDetailsResponse&gt;) -&gt; Swift.Optional&lt;Any&gt; in closure #1 () -&gt; () in YoSoyVW.SignInViewController.didCompleteStepWithError(Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "YoSoyVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablodelarosamichicol/Downloads/si-yosoyvw-ios-pablo/YoSoyVW/mx.com.vw.app.yosoyvw.signin/SignInViewController.swift"
+                  timestampString = "579594093.701179"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "243"
+                  endingLineNumber = "243"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoSoyVW/mx.com.vw.app.yosoyvw.signin/SignInViewController.swift"
+            timestampString = "579594093.201148"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "243"
+            endingLineNumber = "243"
+            landmarkName = "didCompleteStepWithError(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
